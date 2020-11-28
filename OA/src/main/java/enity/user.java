@@ -8,4 +8,8 @@ package enity;
 public class user {
     private String username;
     private String password;
+    public void test(){
+
+        int i = 10;
+    }
 }
